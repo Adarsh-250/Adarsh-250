@@ -1,3 +1,9 @@
+<img src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg" width="100%" />
+
+<h1 align="center">Heyyy 👋, ADARSH here!</h1>
+
+---
+
 # 💫 About Me:
 👨‍💻 Full-stack developer passionate about building modern web apps<br>🎓 B.Tech CSE from Chitkara University<br>💬 Ask me about MERN stack, REST APIs, MongoDB, FastAPI and DSA<br>🌱 Currently learning Docker, CI/CD, system design, LLM API integration and AWS<br>🎯 My goal is to create products that solve real-world problems<br>💡 Always chasing the next idea worth building
 
